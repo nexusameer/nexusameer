@@ -4,5 +4,6 @@
 
 🌟 Let’s build something great together!
 
-- 📫 You can reach me on linkedin https://www.linkedin.com/in/nexusameer
-
+- 📫 You can reach me
+- linkedin https://www.linkedin.com/in/nexusameer
+- Portfolio http://nexusameer.site/
